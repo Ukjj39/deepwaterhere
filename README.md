@@ -1,2 +1,2 @@
 # deepwaterhere
-a playground
+a playground for daily practice
